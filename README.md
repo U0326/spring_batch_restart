@@ -1,6 +1,6 @@
 # spring_batch_restart
 ## 説明
-SpringBatchでリスタートを行うサンプル実装になります。
+SpringBatchでリスタートを行うサンプル実装になります。  
 [こちら](https://github.com/U0326/spring_batch_commandline_runner_template)のプロジェクトを元にしています。
 
 ## 要求事項
